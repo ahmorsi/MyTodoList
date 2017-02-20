@@ -1,4 +1,4 @@
-# flux-shell
+# TodoList By Flux & ReactJs
 
 This is a very simple TodoList Web app based on ReactJs & Flux architecture. It can be considered as a tutorial for Flux design pattern and this implementation is inspired from [Facebook Flux Tutorial](https://github.com/facebook/flux/tree/master/examples/flux-todomvc)
 
